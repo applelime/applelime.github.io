@@ -2,15 +2,18 @@
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
 layout: list
 
+# custom
+category: develop
+
 # The title of the tag's page.
-title: Develop
+title: Front
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: develop
+slug: front
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  개발 관련된 모든 것
+  프론트엔드 관련
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -19,16 +22,7 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 
-# custom
-submenu: true
+#custom
+list: true
+order: 1
 ---
-
-# Develop
-
-## 카테고리
-
-* [Front]
-* [Etc]
-
-[Front]: /front/
-[Etc]: /etc/

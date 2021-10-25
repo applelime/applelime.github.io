@@ -52,6 +52,11 @@ menu:
     url:               /about/
   - title:             Develop
     url:               /develop/
+    submenu:
+      - title:             Front
+      - url:               /front/
+      - title:             Etc
+      - url:               /etc/
   - title:             Review
     url:               /review/
 
