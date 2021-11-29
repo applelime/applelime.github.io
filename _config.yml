@@ -54,9 +54,9 @@ menu:
     url:               /develop/
     submenu:
       - title:             Front
-      - url:               /front/
+        url:               /front/
       - title:             Etc
-      - url:               /etc/
+        url:               /etc/
   - title:             Review
     url:               /review/
 
