@@ -21,18 +21,18 @@
     </h2>
     <!--카테고리-->
     <div class="post-date">
-      {% assign category_start     = "카테고리 : "     | default:" in " %} 
+      {% assign category_start     = " in "     | default:" in " %} 
       {% assign tag_start          = "Hashtag : #"          | default:" - " %} 
-      {% assign category_separator = site.data.strings.category_separator | default:" >> " %}
+      {% assign category_separator = site.data.strings.category_separator | default:" / " %}
       {% assign tag_separator      = " #"     | default:". "  %}
     
     <span class="ellipis mrl">
-      {% include components/tag-list.html tags=post.categories meta=site.featured_categories start_with=category_start separator=category_separator %}
-      {% include components/tag-list.html tags=post.tags meta=site.featured_tags start_with=tag_start separator=tag_separator %}
       <!--년월일-->
-      <br>
       {% assign post_format = "%Y년 %m월 %d일" | default:"%Y %m %d" %}
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:post_format }}</time>
+      
+      {% include components/tag-list.html tags=post.categories meta=site.featured_categories start_with=category_start separator=category_separator %}
+      {% include components/tag-list.html tags=post.tags meta=site.featured_tags start_with=tag_start separator=tag_separator %}
     </span>
     <br>
     </div>
