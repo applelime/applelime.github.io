@@ -1,7 +1,8 @@
 <!--네비게이션바에 메뉴선정-->
-<span class="sronly">{{ site.data.strings.navigation | default:"Navigation" }}{{ site.data.strings.colon | default:":" }}</span>
 <ul>
+    <!-- config.yml 파일의 menu 항목 -->
     {% if site.menu %}
+        <!-- menu의 node를 순회 -->
         {% for node in site.menu %}
             {% assign url = node.url | default: node.href %}
             <!-- 메뉴 각각을 식별하기위한 인덱스 -->
@@ -25,6 +26,7 @@
                         >
                         {{ node.name | default:node.title }}
                     </a>
+                    <!-- submenu가 있다면 여기서 그려주고 링크 적용. subnode.title, subnode.url -->
                     {% if node.submenu %}
                         <div id="submenu-{{count}}" class="menu-wrapper submenu hide">
                             <ul style="list-style: none;">
