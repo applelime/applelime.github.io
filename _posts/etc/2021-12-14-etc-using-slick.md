@@ -57,9 +57,9 @@ $(document).ready(function() {
 > 🔍 **결과**
 
 <div class="main_center">
-    <div><img src= "/assets/img/blog/etc/1.JPG" style="width: auto; height: 500px;"></div>
-    <div><img src="/assets/img/blog/etc/2.JPG" style="width: auto; height: 500px;"></div>
-    <div><img src= "/assets/img/blog/etc/3.JPG" style="width: auto; height: 500px;"></div>
+    <div><img src= "/assets/img/blog/etc/1.jpg" style="width: auto; height: 500px;"></div>
+    <div><img src="/assets/img/blog/etc/2.jpg" style="width: auto; height: 500px;"></div>
+    <div><img src= "/assets/img/blog/etc/3.jpg" style="width: auto; height: 500px;"></div>
 </div>
 
 <script>
