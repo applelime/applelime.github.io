@@ -55,7 +55,7 @@ menu:
     submenu:
       - title:             Front
         url:               /front/
-      - title:             PS
+      - title:             Problem Solving
         url:               /ps/
   - title:             Review
     url:               /review/
