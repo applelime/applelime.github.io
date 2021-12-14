@@ -25,7 +25,7 @@ title:                 memo.log
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  업무, 공부하면서 여러가지 기록용 블로그
+  기록용 블로그
 
 # A shorter description for the sidebar.
 tagline:               기록용 블로그
@@ -55,10 +55,12 @@ menu:
     submenu:
       - title:             Front
         url:               /front/
-      - title:             Etc
-        url:               /etc/
+      - title:             PS
+        url:               /ps/
   - title:             Review
     url:               /review/
+  - title:             Etc
+    url:               /etc/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

@@ -12,7 +12,7 @@ description: >
 invert_sidebar: true
 categories:
  - develop
- - etc
+ - ps
 ---
 
 # Develop-Etc-post1

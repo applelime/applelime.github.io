@@ -2,9 +2,6 @@
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
 layout: list
 
-# custom
-category: develop
-
 # The title of the tag's page.
 title: Etc
 
@@ -13,7 +10,7 @@ slug: etc
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  기타
+  기타 게시물
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -21,8 +18,4 @@ description: >
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
-
-#custom
-list: true
-order: 2
 ---
