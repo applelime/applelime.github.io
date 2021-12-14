@@ -28,7 +28,7 @@ submenu: true
 ## 카테고리
 
 * [Front]
-* [Etc]
+* [Problem Solving]
 
 [Front]: /front/
-[Etc]: /etc/
+[Problem Solving]: /ps/
