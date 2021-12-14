@@ -187,7 +187,6 @@
 .spread-btn{
   right: 15%;
   position: absolute;
-  padding: 0;
   padding-top: 2px;
   border: none;
   background: none;
@@ -197,22 +196,24 @@
 }
 
 .menu-wrapper {
-  text-align: left;
-  margin-left: 30%;
+  // text-align: left;
+  // margin-left: 30%;
 }
 
 .submenu.menu-wrapper{
-  right: 10%;
-  position: absolute;
   background-color: rgb(34,31,32);
   border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
-  width: 8rem;
-  z-index: 2;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
     ul{
       margin: 0;
-      padding: 0 1.25rem;
+      padding: 0 1rem;
     }
+}
+
+.submenu-nav-item {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  color: #a5abc3 !important;
 }
 
 .submenu.menu-wrapper.hide{

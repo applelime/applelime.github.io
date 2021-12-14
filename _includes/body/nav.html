@@ -8,12 +8,12 @@
             <!-- 메뉴 각각을 식별하기위한 인덱스 -->
             {% assign count = count | plus: 1 %}
             <li>
-                <div class="menuwrapper" onmouseover="javascript:spread({{count}})" onmouseout="javascript:spread({{count}})">
+                <div class="menuwrapper">
                     <!-- submenu 변수는 _config.yml 에서 추가합니다 -->
                     {% if node.submenu %}
                         <!-- spread 함수는 js 파일로 작성하고 my-head.html 에 추가합니다 -->
                         <!-- spread-btn class 는 my-style.scss 에 추가합니다. -->
-                        <button class="spread-btn">
+                        <button class="spread-btn" onmouseup="javascript:spread({{count}})" onmouseover="javascript:changeColor({{count}}, true)" onmouseout="javascript:changeColor({{count}}, false)">
                             <!-- marterial stylesheet 를 my-head.html 에 추가합니다 -->
                             <span id="spread-icon-{{count}}" class="material-icons">arrow_right</span>
                         </button>
@@ -33,7 +33,7 @@
                             {% for subnode in node.submenu %}
                                 <li>
                                     <a
-                                    class="sidebar-nav-item {% if node.external %}external{% endif %}"
+                                    class="submenu-nav-item {% if node.external %}external{% endif %}"
                                     href="{% include_cached smart-url url=subnode.url %}"
                                     >
                                     {{ subnode.title }}
