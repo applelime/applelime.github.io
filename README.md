@@ -1,20 +1,14 @@
-# Hydejack Starter Kit
+# applelime.github.io
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+Jekyll을 이용하여 구성한 Github Pages 입니다.  
+개발하면서 경험하고 느꼈던 것들을 공유하기 위해 만든 블로그입니다.
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+## 사용테마
+-  [Hydejack v9.1.4](https://hydejack.com/)
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
-
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+## 추가기능
+- 검색 : [Tipue Search](https://github.com/jekylltools/jekyll-tipue-search)
+- 댓글 : [Utterances](https://utteranc.es/)
+- 슬라이드 이미지 : [Slick](https://github.com/kenwheeler/slick/)
+- 방문자 : [Hits](https://hits.seeyoufarm.com/)
