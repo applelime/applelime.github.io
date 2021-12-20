@@ -243,6 +243,10 @@ a.external::after, a::after {
   color: #0d5ab1 !important;
 }
 
+.no-color {
+  color: unset !important;
+}
+
 .bordered {
   border: 1px solid lightgray;
 }
