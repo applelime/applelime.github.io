@@ -26,8 +26,12 @@
   margin-left: -1px;
 }
 
-.nav-btn-bar {
+.nav-btn, .nav-btn-bar {
   height: 3rem;
+}
+
+.nav-span {
+  flex: none;
 }
 
 .content .avatar {
