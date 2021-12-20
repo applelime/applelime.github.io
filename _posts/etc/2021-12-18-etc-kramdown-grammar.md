@@ -7,7 +7,7 @@ categories:
   - etc
 ---
 # Kramdown 문법으로 게시물 꾸미기 
-Jekyll은 현재 마크다운 엔진으로 ```kramdown```{:.block-red}을 사용 중이다.  
+Jekyll은 현재 마크다운 엔진으로 ```kramdown```을 사용 중이다.  
 kramdown만의 기능을 사용하면 css를 쉽게 적용할 수 있어 게시물을 편하게 꾸밀 수 있다.
 
 
@@ -22,18 +22,18 @@ kramdown만의 기능을 사용하면 css를 쉽게 적용할 수 있어 게시�
 
 🔍 **예시**  
 ```css
-.block-red {
-  color: #E53A40;
+.block-blue {
+  color: #0d5ab1 !important;
 }
 ```
 ```
 코드블럭에 색상 적용하기  
-```kramdown``` {:.block-red}
+```kramdown``` {:.block-blue}
 ```
 
 💡 **결과**  
 > 코드블럭에 색상 적용하기  
-```kramdown```{:.block-red}
+```kramdown```{:.block-blue}
 
 
 ## 확장 기능
@@ -65,7 +65,7 @@ Do you see {::comment}this text{:/comment}?
 
 ## Table Of Contents (TOC)
 TOC 기능을 사용하면 말그대로 페이지 내용의 테이블이 생성된다.  
-```{:toc}```{:.block-red} 를 본문에 넣으면 자동으로 H1~H6 내용물의 index가 생성된다.  
+```{:toc}``` 를 본문에 넣으면 자동으로 H1~H6 내용물의 index가 생성된다.  
 <br>
 
 🔍 **예시**  

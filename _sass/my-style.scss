@@ -239,14 +239,14 @@ a.external::after, a::after {
   display: none !important;
 }
 
-.block-red {
-  color: #E53A40;
-}
-
 .block-blue {
-  color: #0d5ab1;
+  color: #0d5ab1 !important;
 }
 
 .bordered {
   border: 1px solid lightgray;
+}
+
+.highlighter-rouge {
+  color: #E53A40;
 }
