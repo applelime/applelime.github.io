@@ -26,6 +26,16 @@
   margin-left: -1px;
 }
 
+.top-menu::-webkit-scrollbar {
+  width: 5px;
+  height: 3px;
+}
+
+.top-menu::-webkit-scrollbar-thumb {
+  background-color: lightgrey;
+  border-radius: 0;
+}
+
 .nav-btn, .nav-btn-bar {
   height: 3rem;
 }
