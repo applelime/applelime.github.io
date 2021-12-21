@@ -4,7 +4,8 @@ title: 유튜브 영상 쉽게 삽입하기
 sitemap: false
 hide_last_modified: false
 categories:
-  - etc
+  - develop
+  - blog
 ---
 # 유튜브 영상 쉽게 삽입하기
 

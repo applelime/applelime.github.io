@@ -4,7 +4,8 @@ title: 마크다운 기초
 sitemap: false
 hide_last_modified: false
 categories:
-  - etc
+  - develop
+  - blog
 ---
 
 # 마크다운 기초
@@ -329,8 +330,8 @@ _   underscore
 
 > 🔍 **결과**
 
-![그림1](/assets/img/blog/etc/1.jpg)
-![그림2](/assets/img/blog/etc/2.jpg){: width="400" height="400"}
+![그림1](/assets/img/blog/develop/blog/1.jpg)
+![그림2](/assets/img/blog/develop/blog/2.jpg){: width="400" height="400"}
 
 
 

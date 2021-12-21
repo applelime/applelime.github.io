@@ -53,6 +53,8 @@ menu:
   - title:             Develop
     url:               /develop/
     submenu:
+      - title:             Blog
+        url:               /blog/
       - title:             Front
         url:               /front/
       - title:             Problem Solving

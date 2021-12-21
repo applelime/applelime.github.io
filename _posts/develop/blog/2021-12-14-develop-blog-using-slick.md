@@ -4,7 +4,8 @@ title: Slick으로 슬라이드 이미지 삽입하기
 sitemap: false
 hide_last_modified: false
 categories:
-  - etc
+  - develop
+  - blog
 ---
 # Slick으로 슬라이드 이미지 삽입하기
 
@@ -57,9 +58,9 @@ $(document).ready(function() {
 > 🔍 **결과**
 
 <div class="main_center">
-    <div><img src= "/assets/img/blog/etc/1.jpg" style="width: auto; height: 500px;"></div>
-    <div><img src="/assets/img/blog/etc/2.jpg" style="width: auto; height: 500px;"></div>
-    <div><img src= "/assets/img/blog/etc/3.jpg" style="width: auto; height: 500px;"></div>
+    <div><img src= "/assets/img/blog/develop/blog/1.jpg" style="width: auto; height: 500px;"></div>
+    <div><img src="/assets/img/blog/develop/blog/2.jpg" style="width: auto; height: 500px;"></div>
+    <div><img src= "/assets/img/blog/develop/blog/3.jpg" style="width: auto; height: 500px;"></div>
 </div>
 
 <script>
