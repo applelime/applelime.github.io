@@ -5,7 +5,7 @@ Jekyll을 이용하여 구성한 Github Pages 입니다.
 
 
 ## 사용테마
--  [Hydejack v9.1.4](https://hydejack.com/)
+-  [Hydejack v9.1.5](https://hydejack.com/)
 
 ## 추가기능
 - 검색 : [Tipue Search](https://github.com/jekylltools/jekyll-tipue-search)
