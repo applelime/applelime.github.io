@@ -10,6 +10,7 @@ categories:
 # 유튜브 영상 쉽게 삽입하는 법
 
 _includes 폴더에 youtubePlayer.html 파일을 하나 만들자.
+
 ~~~html
 <style>
     .embed-container {
