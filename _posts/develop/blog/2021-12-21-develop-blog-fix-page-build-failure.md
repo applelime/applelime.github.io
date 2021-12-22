@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Page Build Failure 해결하기
+title: Jekyll 빌드 실패 해결하기
 sitemap: false
 hide_last_modified: false
 categories:
   - develop
   - blog
 ---
-# Page Build Failure 해결하기 
+# Jekyll 빌드 실패 해결하기
 ![그림1](/assets/img/blog/develop/blog/page-build-failure-1.jpg){:.bordered}
 갑자기 페이지 빌드가 실패했다는 이메일이 왔다.  
 보틍은 실패 원인도 나온다는데 나는 따로 원인이 표시되어 있지 않았다.

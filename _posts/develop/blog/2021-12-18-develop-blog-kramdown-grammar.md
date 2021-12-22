@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Kramdown 문법으로 게시물 꾸미기
+title: Kramdown 문법을 사용해보자
 sitemap: false
 hide_last_modified: false
 categories:
   - develop
   - blog
 ---
-# Kramdown 문법으로 게시물 꾸미기 
+# Kramdown 문법을 사용해보자 
 Jekyll은 현재 마크다운 엔진으로 ```kramdown```을 사용 중이다.  
 kramdown만의 기능을 사용하면 css를 쉽게 적용할 수 있어 게시물을 편하게 꾸밀 수 있다.
 

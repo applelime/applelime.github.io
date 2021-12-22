@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Slick으로 슬라이드 이미지 삽입하기
+title: Slick을 이용한 슬라이드 이미지 삽입
 sitemap: false
 hide_last_modified: false
 categories:
   - develop
   - blog
 ---
-# Slick으로 슬라이드 이미지 삽입하기
+# Slick을 이용한 슬라이드 이미지 삽입
 
 우선 [slick 홈페이지](http://kenwheeler.github.io/slick/) 에서 slick을 다운로드 받자.  
 slick은 jQuery 기반으로 만들어져 jQuery가 필요하다.  
