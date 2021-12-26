@@ -235,6 +235,10 @@
   display: none;
 }
 
+a.flip-title {
+  margin: 0 0 0 5px;
+}
+
 a.external::after, a::after {
   display: none !important;
 }
