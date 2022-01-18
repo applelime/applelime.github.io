@@ -343,6 +343,10 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
   - jekyll-remote-theme
+  - jekyll-gist
+
+gist:
+  noscript: false
 
 
 # SEO Tag
