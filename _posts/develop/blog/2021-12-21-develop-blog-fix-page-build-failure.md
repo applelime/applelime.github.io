@@ -10,7 +10,7 @@ categories:
 # Jekyll 빌드 실패 해결하기
 ![그림1](/assets/img/blog/develop/blog/page-build-failure-1.jpg){:.bordered}
 갑자기 페이지 빌드가 실패했다는 이메일이 왔다.  
-보틍은 실패 원인도 나온다는데 나는 따로 원인이 표시되어 있지 않았다.
+보통은 실패 원인도 나온다는데 나는 따로 원인이 표시되어 있지 않았다.
 
 ## 원인파악
 ![그림2](/assets/img/blog/develop/blog/page-build-failure-2.jpg){:.bordered}  
