@@ -5,7 +5,7 @@ sitemap: false
 hide_last_modified: false
 categories:
   - develop
-  - front
+  - frontend
 ---
 
 # VS Code Emmet 사용하기

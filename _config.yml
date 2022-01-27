@@ -55,8 +55,10 @@ menu:
     submenu:
       - title:             Blog
         url:               /blog/
-      - title:             Front
-        url:               /front/
+      - title:             Frontend
+        url:               /frontend/
+      - title:             Backend
+        url:               /backend/
       - title:             Problem Solving
         url:               /ps/
   - title:             Review

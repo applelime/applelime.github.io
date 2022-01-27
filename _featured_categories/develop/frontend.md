@@ -6,10 +6,10 @@ layout: list
 category: develop
 
 # The title of the tag's page.
-title: Front
+title: Frontend
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: front
+slug: frontend
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
