@@ -16,14 +16,14 @@ Integer클래스에서 증감연산자 ++이 어떻게 정상 동작할까 궁�
 ## Autoboxing
 
 간단한 예시로 아래와 같은 코드가 있다.
-```Java
+```java
 List<Integer> li = new ArrayList<>();
 for (int i = 1; i < 50; i +=2)
   li.add(i);
 ```
 
 위 코드는 실제로는 런타임에 아래 코드로 변경된다.
-```Java
+```java
 List<Integer> li = new ArrayList<>();
 for (int i = 1; i < 50; i +=2)
   li.add(Integer.valueOf(i));
@@ -33,7 +33,7 @@ for (int i = 1; i < 50; i +=2)
 
 ## Unboxing
 
-```Java
+```java
 public static int sumEven(List<Integer> li) {
   int sum = 0;
   for (Integer i: li)
@@ -44,7 +44,7 @@ public static int sumEven(List<Integer> li) {
 ```
 
 이번에는 반대로 위 코드는 아래처럼 바뀌게 된다.
-```Java
+```java
 public static int sumEven(List<Integer> li) {
   int sum = 0;
   for (Integer i: li)
