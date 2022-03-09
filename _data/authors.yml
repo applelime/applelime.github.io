@@ -9,7 +9,7 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     풀스택 개발자를 꿈꾸고 있습니다.  
-    Please check my [CV](/assets/CV.pdf)
+    자세한 내용은 [About](/about/) 페이지를 확인해주세요.
 
   # This photo will be used in the about section
   picture:
