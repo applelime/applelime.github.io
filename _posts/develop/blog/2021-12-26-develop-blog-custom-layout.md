@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 게시물 목록 커스텀하기
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

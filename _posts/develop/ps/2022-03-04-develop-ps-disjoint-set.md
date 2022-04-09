@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Disjoint Set (Union-Find)
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

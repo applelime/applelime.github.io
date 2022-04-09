@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slick을 이용한 슬라이드 이미지 삽입
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

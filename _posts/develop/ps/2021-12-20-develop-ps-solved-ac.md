@@ -1,7 +1,7 @@
 ---
 layout: post
 title: solved.ac로 수준별 문제풀기
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 마크다운 기초
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

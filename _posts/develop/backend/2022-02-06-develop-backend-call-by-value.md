@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java는 Call by Reference가 없다
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

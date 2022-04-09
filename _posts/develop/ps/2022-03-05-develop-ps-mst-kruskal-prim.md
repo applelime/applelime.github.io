@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 최소 신장 트리 (MST), Kruskal, Prim 알고리즘
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

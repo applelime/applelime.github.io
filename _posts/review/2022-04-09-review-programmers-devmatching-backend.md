@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2022 상반기 웹 백엔드 개발자 Dev-Matching 후기
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - review

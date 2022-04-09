@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wrapper 클래스 오토박싱과 언박싱
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

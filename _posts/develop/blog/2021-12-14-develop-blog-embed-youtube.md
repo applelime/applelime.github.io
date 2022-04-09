@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 유튜브 영상 쉽게 삽입하는 법
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

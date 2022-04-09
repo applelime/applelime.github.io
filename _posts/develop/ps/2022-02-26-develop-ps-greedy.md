@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 탐욕 알고리즘
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

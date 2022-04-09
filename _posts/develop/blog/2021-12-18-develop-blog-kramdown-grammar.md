@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kramdown 문법을 사용해보자
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lower Bound, Upper Bound
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

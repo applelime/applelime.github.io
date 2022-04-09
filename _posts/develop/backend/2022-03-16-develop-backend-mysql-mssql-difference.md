@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MySQL, MS SQL 단축키 및 함수 비교
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

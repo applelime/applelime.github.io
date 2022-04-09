@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VS Code Extension 추천
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

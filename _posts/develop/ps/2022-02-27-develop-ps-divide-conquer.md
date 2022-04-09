@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 분할 정복, 이진 탐색
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

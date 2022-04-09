@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 다이나믹 프로그래밍
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

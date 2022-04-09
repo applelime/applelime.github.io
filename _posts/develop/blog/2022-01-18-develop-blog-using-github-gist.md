@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitHub Gist 사용하기
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

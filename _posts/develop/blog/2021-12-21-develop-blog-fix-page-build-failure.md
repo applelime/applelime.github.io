@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll 빌드 실패 해결하기
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

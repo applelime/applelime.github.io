@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 허먼밀러 뉴에어론 사용기
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - review

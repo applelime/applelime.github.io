@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 삼성 SW 역량테스트 A형, B형 후기 
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - review

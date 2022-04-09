@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rouge로 코드 블럭 테마 변경하기
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

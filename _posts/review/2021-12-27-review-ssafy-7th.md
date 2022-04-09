@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SSAFY 7기 합격 후기
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - review

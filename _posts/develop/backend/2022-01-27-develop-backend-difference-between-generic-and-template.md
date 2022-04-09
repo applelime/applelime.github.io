@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java 제네릭과 C++ 템플릿의 차이
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

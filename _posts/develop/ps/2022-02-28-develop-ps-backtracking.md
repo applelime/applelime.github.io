@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 백트래킹
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

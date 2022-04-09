@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 사무용품 소개 - page a day calendar
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - etc

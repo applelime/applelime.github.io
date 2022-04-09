@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 이진 트리, 힙
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

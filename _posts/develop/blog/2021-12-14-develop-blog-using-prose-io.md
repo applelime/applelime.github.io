@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prose.io로 어디서나 포스팅 하기
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

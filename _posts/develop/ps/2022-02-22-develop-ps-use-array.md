@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 배열을 이용한 탐색
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 순열, 조합, 부분집합
-sitemap: false
+sitemap: true
 hide_last_modified: false
 categories:
   - develop
