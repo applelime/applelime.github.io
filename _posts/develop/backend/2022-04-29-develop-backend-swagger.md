@@ -41,6 +41,13 @@ maven 프로젝트 기준으로 pom.xml에 의존성을 추가한다.
 ```
 3.0 버전부터는 springfox-boot-starter 하나만 추가하면 다 포함하고 있다.
 
+> 만약 `documentationPluginsBootstrapper 관련 에러`가 나타난다면  
+application.properties에 아래 설정을 추가해주자.
+
+```properties
+spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
+```
+
 ## Swagger 설정
 Swagger의 설정을 담당할 클래스를 하나 만들고,  
 `@Configuration, @EnableSwagger2 어노테이션`을 추가한다.  
