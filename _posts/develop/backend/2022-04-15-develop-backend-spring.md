@@ -42,4 +42,6 @@ Spring은 `자바 엔터프라이즈 개발을 편하게 해주는 경량급 애
 | **Spring Web** | Web Application에 필요한 기본 기능 지원 |
 | **Spring Web MVC** | 자체적으로 MVC 프레임워크를 제공 |
 
+## Spring에 대한 자세한 내용
 > [IoC / DI](/develop/backend/2022-04-16-develop-backend-spring-ioc-di/)  
+[AOP](/develop/backend/2022-04-17-develop-backend-spring-aop/)
