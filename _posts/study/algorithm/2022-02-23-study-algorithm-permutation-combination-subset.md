@@ -4,8 +4,8 @@ title: 순열, 조합, 부분집합
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 순열, 조합, 부분집합
 

@@ -218,6 +218,10 @@
   background-color: rgb(34,31,32);
   border-radius: 5px;
   position: absolute;
+  z-index: 2;
+  width: 130px;
+  left: 50%;
+  transform: translate(-50%, 0%);
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
     ul{
       margin: 0;
@@ -265,4 +269,8 @@ a.external::after, a::after {
 
 .highlighter-rouge {
   color: #E53A40;
+}
+
+.sidebar-sticky {
+  contain: none;
 }

@@ -4,8 +4,8 @@ title: solved.ac로 수준별 문제풀기
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # solved.ac로 수준별 문제풀기 
 [solved.ac](https://solved.ac/)는 [Baekjoon Online Judge](https://www.acmicpc.net/) 문제들에 태그와 난이도를 제공하는 기능이다.  

@@ -4,8 +4,8 @@ title: 다이나믹 프로그래밍
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 다이나믹 프로그래밍
 

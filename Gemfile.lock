@@ -10,6 +10,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
     execjs (2.8.1)
     faraday (1.9.3)
       faraday-em_http (~> 1.0)
@@ -34,6 +35,7 @@ GEM
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
+    ffi (1.15.4)
     ffi (1.15.4-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
@@ -124,6 +126,8 @@ GEM
     ruby2_keywords (0.0.5)
     rubyzip (2.3.2)
     safe_yaml (1.0.5)
+    sassc (2.4.0)
+      ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     sawyer (0.8.2)
@@ -131,14 +135,10 @@ GEM
       faraday (> 0.8, < 2.0)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    tzinfo (2.0.4)
-      concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2021.5)
-      tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
 
 PLATFORMS
+  arm64-darwin-21
   x64-mingw32
 
 DEPENDENCIES
@@ -161,8 +161,6 @@ DEPENDENCIES
   jekyll-theme-hydejack (~> 9.1)
   jekyll-titles-from-headings
   kramdown-math-katex
-  tzinfo-data
-  wdm
 
 BUNDLED WITH
-   2.2.29
+   2.3.21

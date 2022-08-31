@@ -4,8 +4,8 @@ title: 투 포인터, 누적 합, 슬라이딩 윈도우
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 투 포인터, 누적 합, 슬라이딩 윈도우
 

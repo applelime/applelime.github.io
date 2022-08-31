@@ -4,8 +4,8 @@ title: Today Problem
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # Today Problem
 깃헙에서 백준 문제가 잘 정리된 페이지를 발견해서 공유하려고 가져왔다.  

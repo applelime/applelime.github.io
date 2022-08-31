@@ -50,6 +50,15 @@ author:
 menu:
   - title:             About
     url:               /about/
+  - title:             Life
+    url:               /life/
+  - title:             Study
+    url:               /study/
+    submenu:
+      - title:             Algorithm
+        url:               /algorithm/
+      - title:             Database
+        url:               /database/
   - title:             Develop
     url:               /develop/
     submenu:
@@ -59,12 +68,10 @@ menu:
         url:               /frontend/
       - title:             Backend
         url:               /backend/
-      - title:             Problem Solving
-        url:               /ps/
+      - title:             Etc
+        url:               /etc/
   - title:             Review
     url:               /review/
-  - title:             Etc
-    url:               /etc/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

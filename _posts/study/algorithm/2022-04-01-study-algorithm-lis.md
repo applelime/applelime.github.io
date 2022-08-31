@@ -4,8 +4,8 @@ title: 최장 증가 부분 수열 (LIS)
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 최장 증가 부분 수열 (LIS)
 

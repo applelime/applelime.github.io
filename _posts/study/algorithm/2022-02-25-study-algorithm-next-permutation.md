@@ -4,8 +4,8 @@ title: Next Permutation 알고리즘
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # Next Permutation 알고리즘
 사전 순으로 다음 순열을 찾을 수 있게 해주는 알고리즘이다.

@@ -4,8 +4,8 @@ title: Lower Bound, Upper Bound
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # Lower Bound, Upper Bound
 

@@ -4,8 +4,8 @@ title: 코드포스 (Codeforces) 소개 & 첫 대회 후기
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 코드포스 (Codeforces) 소개 & 첫 대회 후기
 

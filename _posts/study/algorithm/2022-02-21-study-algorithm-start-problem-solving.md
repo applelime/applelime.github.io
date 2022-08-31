@@ -4,8 +4,8 @@ title: 알고리즘 문제풀이 시작하기
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 알고리즘 문제풀이 시작하기
 

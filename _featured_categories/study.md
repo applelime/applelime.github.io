@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Develop
+title: Study
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: develop
+slug: study
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  개발과 관련된 게시물
+  개발보다는 조금 더 이론적인 부분들
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -18,21 +18,14 @@ description: >
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: true
-
-# custom
-submenu: true
 ---
 
-# Develop
+# Study 
 
 ## 카테고리
 
-* [Blog]
-* [Frontend]
-* [Backend]
-* [Etc]
+* [Algorithm]
+* [Database]
 
-[Blog]: /blog/
-[Frontend]: /frontend/
-[Backend]: /backend/
-[Etc]: /etc/
+[Algorithm]: /algorithm/
+[Database]: /database/

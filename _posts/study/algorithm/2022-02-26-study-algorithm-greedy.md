@@ -4,8 +4,8 @@ title: 탐욕 알고리즘
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 탐욕 알고리즘
 탐욕 (Greedy) 알고리즘은 현재 상황에서 최적이라고 생각되는 것을 선택해 나가며  

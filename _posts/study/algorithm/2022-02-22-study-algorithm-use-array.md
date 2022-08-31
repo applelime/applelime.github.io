@@ -4,8 +4,8 @@ title: 배열을 이용한 탐색
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 배열을 이용한 탐색
 배열이 무엇인지에 대한 내용은 생략하고,  

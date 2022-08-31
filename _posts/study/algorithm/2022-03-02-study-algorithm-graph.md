@@ -4,8 +4,8 @@ title: 그래프
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 그래프
 

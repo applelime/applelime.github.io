@@ -4,8 +4,8 @@ title: 최소 신장 트리 (MST), Kruskal, Prim 알고리즘
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 최소 신장 트리 (MST), Kruskal, Prim 알고리즘
 

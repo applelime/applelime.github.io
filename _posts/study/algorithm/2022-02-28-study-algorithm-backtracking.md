@@ -4,8 +4,8 @@ title: 백트래킹
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 백트래킹
 

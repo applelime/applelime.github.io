@@ -4,8 +4,8 @@ title: 이진 트리, 힙
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 이진 트리, 힙
 

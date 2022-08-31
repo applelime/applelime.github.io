@@ -4,8 +4,8 @@ title: 분할 정복, 이진 탐색
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # 분할 정복, 이진 탐색
 

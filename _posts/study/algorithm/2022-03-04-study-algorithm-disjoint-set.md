@@ -4,8 +4,8 @@ title: Disjoint Set (Union-Find)
 sitemap: true
 hide_last_modified: false
 categories:
-  - develop
-  - ps
+  - study
+  - algorithm
 ---
 # Disjoint Set (Union-Find) 
 

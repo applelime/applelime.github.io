@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Etc
+title: Life
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: etc
+slug: life
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  기타 게시물
+  일상 및 자유로운 이야기
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
