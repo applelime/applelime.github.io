@@ -9,6 +9,9 @@ categories:
 ---
 
 # vim 사용하기
+* toc
+{:toc .large-only}
+
 vi는 유닉스의 기본 텍스트 편집기이고,  
 vim은 vi가 개량된 버전으로 vi improved의 약자이다.  
 
