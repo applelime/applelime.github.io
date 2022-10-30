@@ -12,8 +12,8 @@ layout: base
                 {% include_cached components/hy-img.html class="avatar" img=author.picture alt=author.name %}
             {% endif %}
             <div class="author-body-description" style="margin-left: 200px; margin-top: 40px;">
-                <span style="font-size:1.4em; color: rgb(0, 0, 0);">{{ author.name | markdownify }}</span>
-                <span style="color: rgb(141, 141, 141);">{{ author.about | markdownify }}</span>
+                <div style="font-size:1.4em; color: rgb(0, 0, 0);">{{ author.name | markdownify }}</div>
+                <div style="color: rgb(141, 141, 141);">{{ author.about | markdownify }}</div>
             </div>
         {% endcapture %}
         {% assign content = content | replace:"<!--author-->", author_x %}

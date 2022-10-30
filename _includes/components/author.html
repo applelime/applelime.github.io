@@ -16,15 +16,11 @@
         {% endif %}
     <!-- 글 -->
     <div class="author-body-description" >
-        <span style = " font-size:1.4em;  color: rgb(0, 0, 0);"><strong>{{ author.name | markdownify }}</strong></span>
-        <span style = "color: rgb(141, 141, 141);">{{ author.about | markdownify }}</span>
+        <div style = " font-size:1.4em;  color: rgb(0, 0, 0);"><strong>{{ author.name | markdownify }}</strong></div>
+        <div style = "color: rgb(141, 141, 141);">{{ author.about | markdownify }}</div>
     </div>
     <!--소셜-->
     <div class="sidebar-social">
-    <div class="sidebar-social">
         {% include components/social.html author=author %}
     </div>
-
-    
-
 </div>
